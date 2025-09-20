@@ -153,3 +153,6 @@ This system has been developed to meet the following key objectives:
 This system is designed to be intuitive and user-friendly. Each user role has a dedicated dashboard with relevant features and functions. New users should start by creating an account and completing their profile information to access the full range of system features.
 
 For technical support or questions about the system, please contact our support team at the provided contact information.
+
+---
+*Last updated: September 20, 2025 - update ni norwood*
